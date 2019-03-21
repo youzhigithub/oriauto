@@ -1,0 +1,13 @@
+rootProject.name = 'oriauto'
+include 'discovery-server'
+include 'gateway-server'
+include 'common'
+include 'common:common-base'
+include 'common:common-utils'
+include 'config-server'
+include 'service-api'
+include 'service-api:user-api'
+include 'service-provider'
+include 'service-provider:user-provider'
+include 'service-provider:test-provider'
+

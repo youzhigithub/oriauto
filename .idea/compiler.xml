@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base.com.ori.base.main" target="1.8" />
+      <module name="base.com.ori.base.test" target="1.8" />
+      <module name="com.ori.base.main" target="1.8" />
+      <module name="com.ori.base.test" target="1.8" />
+      <module name="com.ori.oriauto.main" target="1.8" />
+      <module name="com.ori.oriauto.test" target="1.8" />
+      <module name="com.ori.test-provider.main" target="1.8" />
+      <module name="com.ori.test-provider.test" target="1.8" />
+      <module name="com.ori.user-provide.main" target="1.8" />
+      <module name="com.ori.user-provide.test" target="1.8" />
+      <module name="com.ori.user-provider.main" target="1.8" />
+      <module name="com.ori.user-provider.test" target="1.8" />
+      <module name="common-base.com.ori.common-base.main" target="1.8" />
+      <module name="common-base.com.ori.common-base.test" target="1.8" />
+      <module name="common-utils.com.ori.common-utils.main" target="1.8" />
+      <module name="common-utils.com.ori.common-utils.test" target="1.8" />
+      <module name="user-api.com.ori.user-api.main" target="1.8" />
+      <module name="user-api.com.ori.user-api.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

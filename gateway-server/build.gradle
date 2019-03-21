@@ -1,0 +1,5 @@
+apply from: parent.rootDir.absolutePath + '/spring-boot-base.gradle'
+
+dependencies{
+    compile('org.springframework.cloud:spring-cloud-starter-gateway')
+}
