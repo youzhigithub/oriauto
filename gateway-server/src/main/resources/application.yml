@@ -1,0 +1,5 @@
+server:
+  port: 1999
+spring:
+  application:
+    name: gateway-server
