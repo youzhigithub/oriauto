@@ -3,6 +3,9 @@ server:
 spring:
   application:
     name: user-service-provider
+  elasticsearch:
+    jest:
+      uris: http://47.98.174.58:9200
 eureka:
   client:
     service-url:
